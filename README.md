@@ -1,2 +1,2 @@
 # rokid-speech
-speech对外接口调用demo
+speech对外接口调用Java demo
